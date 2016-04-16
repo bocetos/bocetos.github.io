@@ -1,6 +1,6 @@
 permalink: /:categories/:title/
 url: "http://bocetos.github.io/elgatominimal/"
-baseurl: "http://bocetos.github.io/elgatominimal/"
+baseurl: ""
 full_name: "El Gato Escaldado"
 first_name: "El Gato"
 last_name: "Escaldado"
