@@ -104,6 +104,14 @@ h1 {
     font-family: "Raleway";
 }
 
+#logo b {
+    font-size: 14px;
+    color: #777;
+    text-decoration: none;
+    font-family: "Raleway";
+}
+
+
 
 #links {
 	float: right;
