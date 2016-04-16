@@ -1,6 +1,6 @@
 permalink: /:categories/:title/
-url: "https://hoffli.github.io/saigon-jekyll-theme"
-baseurl: "http://bocetos.github.io/"
+url: "http://bocetos.github.io/elgatominimal/"
+baseurl: "http://bocetos.github.io/elgatominimal/"
 full_name: "El Gato Escaldado"
 first_name: "El Gato"
 last_name: "Escaldado"
